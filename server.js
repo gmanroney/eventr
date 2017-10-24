@@ -10,7 +10,7 @@ var base = new Airtable({
 //var tableName = 'Furniture';
 //var viewName = 'Main View';
 var tableName = 'Event';
-var viewName = 'Main View';
+var viewName = 'Table';
 
 var express = require('express');
 var app = express();
